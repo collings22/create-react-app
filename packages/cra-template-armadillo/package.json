@@ -1,6 +1,6 @@
 {
   "name": "cra-template-armadillo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "react",
     "create-react-app",
@@ -13,7 +13,7 @@
   "description": "The custom template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/collings22/create-react-app",
+    "url": "git+https://github.com/collings22/create-react-app.git",
     "directory": "packages/cra-template"
   },
   "author": "D Collings",
@@ -27,5 +27,10 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "homepage": "https://github.com/collings22/create-react-app#readme",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
