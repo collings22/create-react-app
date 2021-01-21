@@ -9,7 +9,7 @@
   "description": "The custom template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/collings22/create-react-app",
     "directory": "packages/cra-template"
   },
   "license": "MIT",
